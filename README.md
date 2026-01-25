@@ -1,7 +1,6 @@
 # Aryan Choudhary – Computer Science Student
 
 📧 Email: aryancy1@gmail.com  
-📞 Phone: +91 70009 88428  
 📍 Location: Raipur, Chhattisgarh, India  
 
 ---
