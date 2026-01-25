@@ -59,11 +59,11 @@ I am a Computer Science undergraduate at Government Engineering College, Raipur,
 
 - **Stanford Online – Machine Learning (Andrew Ng)**  
   Certification:  
-  https://drive.google.com/file/d/1w973kS-gPDZhoRrAAcsUJxcDLeci6O_K/view  
+  [your link here] https://drive.google.com/file/d/1w973kS-gPDZhoRrAAcsUJxcDLeci6O_K/view  
 
 - **South East Central Railway (SECR) – Vocational Training Program (2025)**  
   Certification:  
-  https://drive.google.com/file/d/1PKEzaGMjRqykWxC_yJgpzxTE0J9upBHi/view  
+  [your link here] https://drive.google.com/file/d/1PKEzaGMjRqykWxC_yJgpzxTE0J9upBHi/view  
 
 ---
 
@@ -79,11 +79,13 @@ I am a Computer Science undergraduate at Government Engineering College, Raipur,
 - Location: Raipur  
 - Duration: 2 weeks  
 - Work: Waste management awareness and tree plantation drive  
+[your link here] https://drive.google.com/file/d/1nU7xzHbayG-fGwbHkqWKcLsN-H7KMOfj/view
 
 ### AWHRF (Allied World Human Rights Federation)  
 - Location: New Delhi  
 - Duration: 10 days  
 - Work: Child rights awareness and community service through food and clothing distribution  
+[your link here] https://drive.google.com/file/d/1kKSY6rHFz6CZ2NIQja6yvYbsLOmxTIRG/view
 
 ---
 
